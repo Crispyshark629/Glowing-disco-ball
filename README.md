@@ -2,7 +2,7 @@
 
 An experimental interactive audio-visual platform combining multi-layered concentric circle particle systems, real-time Web Audio analysis, and MediaPipe AI hand gesture tracking.
 
-![Demo Screenshot](https://github.com/user-attachments/assets/8bfd6462-1211-40e0-8bb2-544c8d4fcaf6)
+<img width="1538" height="974" alt="image" src="https://github.com/user-attachments/assets/a069fb8b-5781-4730-b117-2c1f0cc5d459" />
 
 ---
 
