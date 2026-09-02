@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass",
+  "description": "An interactive WebGL liquid glass glassmorphism device with hyperbolic curve modes controlled by hands and music.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
